@@ -21,7 +21,7 @@ ollama --version
 
 Pull a small local model:
 ```bash
-ollama pull llama3.2:3b
+ollama pull llama3:latest
 ```
 
 ## 2. Create environment
