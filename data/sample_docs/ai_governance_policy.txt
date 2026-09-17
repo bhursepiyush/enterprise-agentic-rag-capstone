@@ -1,0 +1,4 @@
+Orion AI Governance Policy
+AI systems must protect confidential information, validate outputs, log material decisions, and provide an escalation path for unsafe or incorrect results.
+Applications must not present generated content as verified fact when supporting evidence is unavailable.
+High-impact workflows require human review before an automated recommendation is acted upon.

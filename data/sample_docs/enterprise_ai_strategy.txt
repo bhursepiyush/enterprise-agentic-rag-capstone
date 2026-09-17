@@ -1,0 +1,4 @@
+Orion Enterprise AI Strategy
+Strategic pillars: responsible AI governance, productivity, customer experience, and operational resilience.
+All production AI use cases require an accountable business owner, documented data sources, testing, monitoring, and human oversight for high-impact decisions.
+The architecture team recommends retrieval-augmented generation for document-grounded assistants where authoritative enterprise content changes frequently.
